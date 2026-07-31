@@ -1,7 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,venv
-*.md
-!README.md
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -231,3 +230,6 @@ uv.lock
 
 # macOS Finder metadata
 .DS_Store
+
+*.md
+!README.md
