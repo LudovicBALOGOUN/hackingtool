@@ -24,6 +24,9 @@ Dockerfile
 docker-compose.yml
 .dockerignore
 
+*.md
+!README.md
+
 # OS / editor noise
 .DS_Store
 *.swp
